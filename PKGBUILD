@@ -8,7 +8,7 @@ license=('custom')
 depends=('lib32-glibc'
          'lib32-zlib'
          'net-tools')
-arch=('x86_64' 'i686')
+arch=('x86_64')
 url='http://staff.uva.nl/a-z/content/working-from-home-uva-vpn/working-from-home-uva-vpn.html'
 source=('linux-vpn-installer-redhat-based-systemen.rpm'
         'certificaat-uvavpn.der')
